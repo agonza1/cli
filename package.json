@@ -1,7 +1,7 @@
 {
-  "name": "sequelize-cli",
+  "name": "sequelize-cli-no-vulnerabilities",
   "version": "5.4.0",
-  "description": "The Sequelize CLI",
+  "description": "The Sequelize CLI (fork with vulnerability fix when special characters in password)",
   "bin": {
     "sequelize": "./lib/sequelize"
   },
