@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-cli-no-vulnerabilities",
+  "name": "sequelize-cli-no-vulnerability",
   "version": "5.4.1",
   "description": "The Sequelize CLI (fork with vulnerability fix when special characters in password)",
   "bin": {
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sequelize/cli.git"
+    "url": "git://github.com/agonza1/cli"
   },
   "keywords": [
     "sequelize",
@@ -75,7 +75,7 @@
   "bugs": {
     "url": "https://github.com/sequelize/cli/issues"
   },
-  "homepage": "https://github.com/sequelize/cli",
+  "homepage": "https://github.com/agonza1/cli",
   "engines": {
     "node": ">=6.0.0"
   }
